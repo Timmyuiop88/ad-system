@@ -1,0 +1,1 @@
+Copyright © 2021 <?php echo $site_name?>. All rights reserved
